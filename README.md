@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Candy</h1>
-<h3 align="center">A passionate software developer from Barcelona</h3>
+<h1>Hi 👋, I'm Candy</h1>
+<h3>A passionate software developer from Barcelona</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
