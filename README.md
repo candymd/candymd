@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Candy</h1>
+<h1>Hi 👋, I'm Candy!</h1>
 <h3>A passionate software developer from Barcelona</h3>
 
 - 🌱 I’m currently learning **ReactJS**
