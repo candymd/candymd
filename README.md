@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Candy!</h1>
 <h3>A passionate software developer from Barcelona</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** and **Databases**
 
 - 👯 I’m looking to collaborate on **open source**
 
